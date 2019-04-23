@@ -3,8 +3,6 @@ import {
 } from '@angular/core';
 
 @NgModule({
-  exports: [
-    
-  ]
+  exports: []
 })
 export class AppSkyModule { }

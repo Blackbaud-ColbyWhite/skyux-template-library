@@ -30,3 +30,6 @@ dist
 *.ngfactory.ts
 *.ngsummary.json
 yarn.lock
+
+# IDE files
+.idea/

@@ -1,4 +1,5 @@
 {
+  "$schema": "./node_modules/@skyux/config/skyuxconfig-schema.json",
   "name": "my-library",
   "mode": "easy",
   "compileMode": "aot",
@@ -6,5 +7,10 @@
     "myLibrary": {
       "name": "My Library"
     }
+  },
+  "app": {
+    "styles": [
+      "@skyux/theme/css/sky.css"
+    ]
   }
 }

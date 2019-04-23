@@ -6,7 +6,7 @@ import {
 
 import {
   SkyAppConfig
-} from '@blackbaud/skyux-builder/runtime';
+} from '@skyux/config';
 
 @Component({
   selector: 'lib-sample',
